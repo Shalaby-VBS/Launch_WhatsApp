@@ -1,16 +1,17 @@
-# launch_whatsapp
+# 🏵 Launch WhatsApp
 
-A new Flutter project.
+Simple UI Screen 👍
 
-## Getting Started
+## 🚀 Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/Shalaby-VBS/Launch_WhatsApp/assets/149938388/7e7d2de2-3e06-4a80-87c8-96f4d4d1b97b
+
+
+## 🛠 Dependencies
+
+1️⃣ url_launcher: ^6.1.7
